@@ -1,1 +1,1 @@
-# Page Router Way Of building Nextjs Apps
+# Page Router Way Of building Nextjs Apps.
